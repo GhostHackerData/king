@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  position: relative;
+  overflow-y: auto;
+}
+
+.metamask-button {
+  background-color: rgb(255, 104, 75); /* Metamask fox color */
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 8px; /* Rounded corners */
+  font-family: Arial, sans-serif;
+}
+
+
+
